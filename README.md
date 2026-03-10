@@ -55,7 +55,7 @@ git clone https://github.com/sekere01/caesar-cipher.git
 cd caesar-cipher
 
 # Run the application
-python caesar_cipher.py
+python caesarcipher.py
 ```
 
 ---
@@ -99,7 +99,7 @@ decrypted = (char_position - shift) % 26
 ```
 caesar-cipher/
 │
-├── caesar_cipher.py   # Main application file
+├── caesarcipher.py   # Main application file
 └── README.md          # Project documentation
 ```
 
